@@ -1,0 +1,53 @@
+{
+  "MCQ": [
+    {
+      "type": "MCQ",
+      "question": "What is Intelligence?\na) Option A\nb) Option B\nc) Option C\nd) Option D\nAnswer: a",
+      "chunk": 1
+    },
+    {
+      "type": "MCQ",
+      "question": "What is Syntax?\na) Option A\nb) Option B\nc) Option C\nd) Option D\nAnswer: a",
+      "chunk": 1
+    },
+    {
+      "type": "MCQ",
+      "question": "What is Without?\na) Option A\nb) Option B\nc) Option C\nd) Option D\nAnswer: a",
+      "chunk": 1
+    }
+  ],
+  "Short Answer": [
+    {
+      "type": "Short Answer",
+      "question": "Explain Example: briefly.",
+      "chunk": 1
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain Several briefly.",
+      "chunk": 1
+    },
+    {
+      "type": "Short Answer",
+      "question": "Explain Perform briefly.",
+      "chunk": 1
+    }
+  ],
+  "Long Answer": [
+    {
+      "type": "Long Answer",
+      "question": "Explain Print(\"x in detail with examples.",
+      "chunk": 1
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain Popularity: in detail with examples.",
+      "chunk": 1
+    },
+    {
+      "type": "Long Answer",
+      "question": "Explain Example: in detail with examples.",
+      "chunk": 1
+    }
+  ]
+}

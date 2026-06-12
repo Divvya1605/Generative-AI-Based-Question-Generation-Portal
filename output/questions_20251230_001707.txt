@@ -1,0 +1,57 @@
+GENERATED QUESTIONS
+==================================================
+
+MCQ QUESTIONS
+--------------------------------------------------
+
+Q1 (Chunk 1):
+What is Intelligence?
+a) Option A
+b) Option B
+c) Option C
+d) Option D
+Answer: a
+
+Q2 (Chunk 1):
+What is Syntax?
+a) Option A
+b) Option B
+c) Option C
+d) Option D
+Answer: a
+
+Q3 (Chunk 1):
+What is Without?
+a) Option A
+b) Option B
+c) Option C
+d) Option D
+Answer: a
+
+
+SHORT ANSWER QUESTIONS
+--------------------------------------------------
+
+Q1 (Chunk 1):
+Explain Example: briefly.
+
+Q2 (Chunk 1):
+Explain Several briefly.
+
+Q3 (Chunk 1):
+Explain Perform briefly.
+
+
+LONG ANSWER QUESTIONS
+--------------------------------------------------
+
+Q1 (Chunk 1):
+Explain Print("x in detail with examples.
+
+Q2 (Chunk 1):
+Explain Popularity: in detail with examples.
+
+Q3 (Chunk 1):
+Explain Example: in detail with examples.
+
+
